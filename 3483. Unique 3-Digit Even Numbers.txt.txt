@@ -36,10 +36,8 @@ Output: 0
 
 Explanation: No even 3-digit numbers can be formed.
 
-===================================================================================================================================================
+===============================================================
 Solution in Java
-
-
 class Solution {
     public int totalNumbers(int[] digits) {
         Set<Integer> uniqueNumbers = new HashSet<>();
